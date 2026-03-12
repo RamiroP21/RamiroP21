@@ -25,5 +25,5 @@ ASP.NET Web Forms application for managing work orders, clients, technicians, an
 I’m looking for junior opportunities where I can keep learning, contribute to real-world projects, and grow professionally as a software developer.
 
 ## Contact
-- 📫 LinkedIn: [Add your LinkedIn here]
-- 📧 Email: [Add your email here]
+- 📫 LinkedIn: (https://www.linkedin.com/in/ramiro-pereira-17017b356/)
+- 📧 Email: ramiropereira2101@gmail.com
